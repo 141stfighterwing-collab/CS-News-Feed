@@ -1,0 +1,7 @@
+{
+  "name": "CyberShield Intel",
+  "description": "A high-performance cybersecurity news aggregator with AI-powered relevance scoring, semantic search, and real-time threat intelligence powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
